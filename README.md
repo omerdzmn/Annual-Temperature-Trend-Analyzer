@@ -84,3 +84,29 @@ havadurumu/
 ├─ main.py                # Main entry point
 ├─ requirements.txt       # Dependencies
 └─ README.md              # Documentation
+```
+
+---
+
+## 🎓 Academic Purpose
+This project demonstrates:
+- External data collection (API usage)
+- Messy data cleaning
+- Statistical aggregation
+- Anomaly-based climate analysis
+- Anomaly-based climate analysis
+
+---
+
+## ▶️ How to Run
+
+- 1️⃣ Install dependencies
+ `pip install -r requirements.txt`
+
+- 2️⃣ Run the project
+ `python main.py`
+
+
+
+
+
