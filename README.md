@@ -94,7 +94,7 @@ This project demonstrates:
 - Messy data cleaning
 - Statistical aggregation
 - Anomaly-based climate analysis
-- Anomaly-based climate analysis
+- Scientific visualization
 
 ---
 
