@@ -1,8 +1,8 @@
-# 🌍 Climate Change Analysis — Istanbul / Kadıköy
+# 🌍 Annual Temperature Trend Analyzer — Istanbul / Kadıköy
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Subject](https://img.shields.io/badge/Subject-Climate%20Analysis-yellow)
+![Subject](https://img.shields.io/badge/Subject-Annual%20Temperature%20Trend%20Analyzer-yellow)
 
 ---
 
